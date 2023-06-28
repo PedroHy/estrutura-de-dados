@@ -9,7 +9,6 @@ Um repo dedicado ao estudo de estrutura de dados e algoritimos. Aqui você vai e
 <div style="display: inline-block">
   <img align="center" alt="icone linguagem c" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">   
   <img align="center" alt="icone python" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">    
-  <img align="center" alt="icone javascript" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
 
 ## Índice:
